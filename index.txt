@@ -1,0 +1,141 @@
+Autofix - Serviço de manutenção & reparo de automóveis
+
+
+#---------- HEADER ----------#
+
+alt = logo
+
+Home/ início
+About / sobre
+Services / Serviços
+Projects / Projetos
+Contact / Contatos
+
+Trabalhe conosco
+<span class="material-symbols-rounded">coffee</span>
+
+aria-label = toggle menu
+
+
+#---------- HERO ----------#
+
+Gestores e mecânicos a sua disposição
+
+Serviço de manutenção & reparo de automóveis
+
+Check-up gratuito para o seu veículo.
+
+Orçamento Grátis
+<span class="material-symbols-rounded">payments</span>
+
+alt = Carro vermelho
+
+
+
+#---------- SERVICE ----------#
+
+Serviços
+Oferecemos ótimos serviços para seu veículo
+
+alt = Reparo mecânico
+Reparo mecânico
+
+Saiba mais
+
+alt = Reparo de freios
+Reparo de freios
+
+alt = Reparo de pneus
+Reparo de pneus
+
+alt = Reparo de bateria
+Reparo de bateria
+
+alt = Carro vermelho
+
+alt = Reparo de direção
+Reparo de direção
+
+Conheça nossos serviços
+<span class="material-symbols-rounded">design_services</span>
+
+
+
+#---------- ABOUT ----------#
+
+alt = manutenção preventiva
+
+Sobre
+
+ATENDER COM QUALIDADE
+
+Oferecemos profissionais qualificados focados em fornecer soluções eficientes para os nossos clientes.
+
++8K
+Clientes satisfeitos
+
++50
+Equipamentos
+
++10
+Anos de mercado
+
+99%
+Serviços avaliados
+
+
+
+#---------- PORTFOLIO ----------#
+
+Portfólio
+
+POLÍTICA DE QUALIDADE
+
+alt = Revisão mecânica
+Revisão mecânica
+
+alt = Troca de pneus
+Troca de pneus
+
+alt = Reparação elétrica
+Reparação elétrica
+
+
+
+#---------- FOOTER ----------#
+
+alt = logo
+
+Prover soluções para veículos através da melhoria, inovação e excelência tecnológica.
+
+alt = facebook
+alt = instagram
+alt = twitter
+
+Atendimento
+
+Durante a semana
+8 hs – 18 hs
+
+Finais de semana
+8 hs – 12 hs
+
+
+Informações de contato
+
+<span class="material-symbols-rounded">call</span>
++5571 3244-0010
+
+<span class="material-symbols-rounded">mail</span>
+info@autofix.com
+
+<span class="material-symbols-rounded">location_on</span>
+Tomé de Sá, 987, Salvador - BA
+
+alt = Shape
+
+Copyright 2022 © Todos os direitos reservados
+
+alt = Shape
+
+alt = Carro vermelho
